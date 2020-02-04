@@ -13,22 +13,35 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Fijian Language GIS Project / フィジー語GISプロジェクト
+# email: dummy@dummy.dummy
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Fijian language GIS project has been funded by several funding
+  agencies and gradually extended to be interdisciplinary, involving
+  linguistics, geography (particularly GIS), cultural anthropology and
+  statistic mathematics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  fijigis
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%Y-%m-%d %H:%M"
+
+# Navigation Links
+header_pages:
+  - about.md
+  - members.md
+
+header: asserts/header.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

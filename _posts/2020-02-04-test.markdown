@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Test"
+date:   2020-02-04 18:25:44 +0900
+categories: test
+---
+This post is a test and will be deleted later.
+
+この投稿はテストです。あとで消します。
