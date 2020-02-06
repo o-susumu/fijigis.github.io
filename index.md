@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-list_title: お知らせ / News 
+list_title: News / お知らせ
 ---
 
 プロジェクトサイト建設予定地。
