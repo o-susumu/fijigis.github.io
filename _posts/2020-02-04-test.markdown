@@ -7,3 +7,13 @@ categories: test
 This post is a test and will be deleted later.
 
 この投稿はテストです。あとで消します。
+
+全体のレイアウトの設定はややこしいので要相談。
+
+恒常的なページは `/` 直下に `foo.md` という形式のファイル名で置く。
+イベントの案内等は、`/_post/` 以下に `YYYY-MM-DD-title.markdown` という形式でファイルを置く。
+
+Markdown 記法については [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) を参照のこと。
+
+画像などは `/assets/` 以下にアップロード。
+![ヘッダ画像](/assets/header.jpg)
