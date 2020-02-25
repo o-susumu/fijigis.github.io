@@ -4,9 +4,12 @@ title: Members
 permalink: /members/
 ---
 
-- [Ritsuko Kikusawa](http://www.minpaku.ac.jp/english/research/activity/organization/staff/kikusawa/index)
-- Paul Geraghty
-- John Lowry
-- [Daichi Mochihashi](http://chasen.org/~daiti-m/)
-- [Yugo Murawaki](http://murawaki.org/)
-- Noboru Yoshioka
+- [KIKUSAWA Ritsuko](http://www.minpaku.ac.jp/english/research/activity/organization/staff/kikusawa/index)
+- Paul GERAGHTY
+- John LOWRY
+- Lawrence A. REID
+- [MOCHIHASHI Daichi](http://chasen.org/~daiti-m/)
+- [MURAWAKI Yugo](http://murawaki.org/)
+- YOSHIOKA Noboru
+- SANO Fumiya
+- OKAMOTO Susumu
